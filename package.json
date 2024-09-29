@@ -1,0 +1,14 @@
+{
+  "name": "amazon-automation-tests",
+  "version": "1.0.0",
+  "description": "Playwright automation script for Amazon",
+  "main": "testExecution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parvin Akter",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.47.2"
+  }
+}
